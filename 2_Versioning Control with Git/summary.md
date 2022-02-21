@@ -24,3 +24,7 @@ Saya bernama Elfrida Tampubolon
 
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Screenshot%20(7).png)
 >>>>>>> 271ec111671b7db1664b0ca48e7ec50cb628d537
+
+
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Screenshot%20(17).png)
