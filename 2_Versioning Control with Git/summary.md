@@ -28,3 +28,5 @@ Saya bernama Elfrida Tampubolon nim 11319010
 
 
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Screenshot%20(17).png)
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Screenshot%20(25).png)
