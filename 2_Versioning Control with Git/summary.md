@@ -21,7 +21,6 @@ VERSION CONTROL SYSTEM
 
 =======
 Saya bernama Elfrida Tampubolon
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FPoster-Aesthetic-Ukuran-A4-A5-paket-1-(16-gambar-15-gambar-)-i.92417293.3258477630&psig=AOvVaw29Fla8FFNz6VUt0TMNZ1YQ&ust=1645547746899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDRiZmdkfYCFQAAAAAdAAAAABAD)
 
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Screenshot%20(7).png)
 >>>>>>> 271ec111671b7db1664b0ca48e7ec50cb628d537
