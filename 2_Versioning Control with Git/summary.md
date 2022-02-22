@@ -1,19 +1,25 @@
 # 2 Versioning Control with Git
+## Resume
+Pada materi ini mempelajari tentang:
 1. Versioning
+2. Git
+3. Install dan Set up Git
+
+## 1. Versioning
 --> Versioning berfungi untuk mengatur versi dari source code program kita. Kita pasti sering menemukan file yang berubah-ubah nama hanya karna berubah revisi dalam kontennya, sehingga kita sendiri sulit untuk memberi nama file tersebut, maka versioning ini akan mengubah konten file tanpa harus kita menyimpang ulang file tersebut yang akan menyebabkan memory kita penuh.
 VERSION CONTROL SYSTEM
 * Single User 
--+ SCCS - 1972 Unix only
--+ RCS - 1982 Cross platform, text only
+- SCCS - 1972 Unix only
+- RCS - 1982 Cross platform, text only
 * Centralized
--+ CVS - 1986 File focus
--+ Perforce - 1995
--+ Subversion - 2000 - track directory structure
--+ Microsoft Team Foundation Server -2005
+- CVS - 1986 File focus
+- Perforce - 1995
+- Subversion - 2000 - track directory structure
+- Microsoft Team Foundation Server -2005
 * Distributed 
--+ Git - 2005
--+ Mercurial - 2005
--+ Bazaar - 2005
+- Git - 2005
+- Mercurial - 2005
+- Bazaar - 2005
 
 2. Git
 --> Salah satu version control system populer yang digunakan para developer untuk mengembangkan software bersama-sama 
