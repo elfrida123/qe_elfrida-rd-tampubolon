@@ -65,11 +65,11 @@ Langkah-langkah pengerjaaan tugas
    ![git init](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/1.PNG)
 5. Kemudian ketikkan perintah **git add .** untuk menambahkan proyek anda
    ![git add .](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/2.PNG)
-6. Ketikkan perintah **git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git**
+6. Ketikkan perintah **git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git**. Dimana git remote ini berfungsi untuk cloning repository
    ![git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/3.PNG)
-7. Ketikkan perintah **git commit -m "Tugas 2"**
+7. Ketikkan perintah **git commit -m "Tugas 2"**. Git commit berfungsi untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
    ![git commit -m "Tugas 2"](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/4.PNG)
-8. Ketikkan perintah **git push -u origin master**
+8. Ketikkan perintah **git push -u origin master**. Git push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository
    ![git push -u origin master](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/5.PNG)
 9. Kemudian kita membuat branch baru dengan perintah **git branch nama-branch**. Pada tugas ini kita akan membuat branch dengan nama develop, ketiga, dan keempat
    ![git branch nama branch](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/6.PNG)
