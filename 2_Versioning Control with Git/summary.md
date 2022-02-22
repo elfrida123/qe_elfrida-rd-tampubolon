@@ -1,4 +1,4 @@
-#2 Versioning Control with Git
+# 2 Versioning Control with Git
 1. Versioning
 --> Versioning berfungi untuk mengatur versi dari source code program kita. Kita pasti sering menemukan file yang berubah-ubah nama hanya karna berubah revisi dalam kontennya, sehingga kita sendiri sulit untuk memberi nama file tersebut, maka versioning ini akan mengubah konten file tanpa harus kita menyimpang ulang file tersebut yang akan menyebabkan memory kita penuh.
 VERSION CONTROL SYSTEM
