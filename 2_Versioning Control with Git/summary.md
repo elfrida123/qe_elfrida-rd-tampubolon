@@ -8,7 +8,7 @@ Pada materi ini mempelajari tentang:
 ## 1. Versioning
 --> Versioning berfungi untuk mengatur versi dari source code program kita. Kita pasti sering menemukan file yang berubah-ubah nama hanya karna berubah revisi dalam kontennya, sehingga kita sendiri sulit untuk memberi nama file tersebut, maka versioning ini akan mengubah konten file tanpa harus kita menyimpang ulang file tersebut yang akan menyebabkan memory kita penuh.
 
-### VERSION CONTROL SYSTEM
+### Version Control System
 * Single User 
   - SCCS - 1972 Unix only
   - RCS - 1982 Cross platform, text only
@@ -59,3 +59,8 @@ Langkah-langkah pengerjaaan tugas
    ![git add .](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/2.PNG)
 6. Ketikkan perintah **git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git**
    ![git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/3.PNG)
+7. Ketikkan perintah **git commit -m "Tugas 2"**
+   ![git commit -m "Tugas 2"](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/4.PNG)
+8. Ketikkan perintah **git push -u origin master**
+   ![git push -u origin master](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/5.PNG)
+   
