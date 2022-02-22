@@ -55,6 +55,7 @@ git branch -D <branch> => Menghapus branch
 git branch -a => Menunjukkan lokasi branch
 
 ## TUGAS
+Link Repository Tugas Section 2 : https://github.com/elfrida123/2_Versioning-Control-with-Git
 ![Hasil Tugas Section 02](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Hasil%20Tugas%20Section%202.PNG)
 Langkah-langkah pengerjaaan tugas
 1. Membuat repository baru pada github dan juga membuat repository lokal
