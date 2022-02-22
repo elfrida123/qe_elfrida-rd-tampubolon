@@ -47,6 +47,13 @@ Setelah kita berhasil melakukan install git maka kita akan melakukan setting up 
    - Masukkan perintah **git commit -m "pesan anda"**
    - Selanjutnya ketikkan perintah **git push -u origin (nama branch)**
 
+## Branches in Git
+Ada beberapa perintah yang digunakan dalam branch antara lain :
+git branch -- list => Menampilkan list branch yang telah kita buat
+git branch <branh> => Membuat branch baru
+git branch -D <branch> => Menghapus branch 
+git branch -a => Menunjukkan lokasi branch
+
 ## TUGAS
 ![Hasil Tugas Section 02](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Hasil%20Tugas%20Section%202.PNG)
 Langkah-langkah pengerjaaan tugas
@@ -63,4 +70,12 @@ Langkah-langkah pengerjaaan tugas
    ![git commit -m "Tugas 2"](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/4.PNG)
 8. Ketikkan perintah **git push -u origin master**
    ![git push -u origin master](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/5.PNG)
-   
+9. Kemudian kita membuat branch baru dengan perintah **git branch nama-branch**. Pada tugas ini kita akan membuat branch dengan nama develop, ketiga, dan keempat
+   ![git branch nama branch](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/6.PNG)
+10. Kemudian ketikkan **git checkout nama-branch** untuk berpindah branch
+    ![git checkout nama-branch](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/7.PNG)
+11. Kemudian kita akan add file ke branch develop dengan mengetikkan perintah **git add .**
+12. Setelah lakukan commit, kemudian lakukan push
+13. Lakukan penambahan file yang akan kita add ke branch ketiga
+14. Setelah kita membuat branch ketiga maka kita akan melakukan merge ke branch develop 
+15. Lakukan langkah yang sama untuk branch keempat
