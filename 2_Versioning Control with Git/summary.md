@@ -41,11 +41,21 @@ Setelah kita berhasil melakukan install git maka kita akan melakukan setting up 
 4. Berikutnya ketikkan perintah git config --global user.email "elfridatampubolon21@gmail.com"
 5. Selanjutnya kita akan masuk ke dalam proses INIT
    Sebelum melakukan proses INIT terlebih dahulu harus membuat repositori pada akun github anda dan juga anda membuat repository pada lokal
-   1. Buka cmd pada repository lokal anda
-   2. Kemudian ketikkan perintah **git init** ke file yang ingin anda push 
-   3. Setelah proses init berhasil masukkan perintah git remote add (URL repositori yang telah anda buat)
-   4. Masukkan perintah **git commit -m "pesan anda"**
-   5. Selanjutnya ketikkan perintah **git push -u origin (nama branch)**
+   - Buka cmd pada repository lokal anda
+   - Kemudian ketikkan perintah **git init** ke file yang ingin anda push 
+   - Setelah proses init berhasil masukkan perintah git remote add (URL repositori yang telah anda buat)
+   - Masukkan perintah **git commit -m "pesan anda"**
+   - Selanjutnya ketikkan perintah **git push -u origin (nama branch)**
 
 ## TUGAS
 ![Hasil Tugas Section 02](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Hasil%20Tugas%20Section%202.PNG)
+Langkah-langkah pengerjaaan tugas
+1. Membuat repository baru pada github dan juga membuat repository lokal
+2. Persiapkan proyek anda dan masukkan ke repository lokal anda
+3. Kemudian buka cmd pada repository lokal anda
+4. Kemudian lakukan initial dengan mengetikkan perintah **git init** seperti gambar berikut:
+   ![git init](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/1.PNG)
+5. Kemudian ketikkan perintah **git add .** untuk menambahkan proyek anda
+   ![git add .](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/2.PNG)
+6. Ketikkan perintah **git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git**
+   ![git remote add origin https://github.com/elfrida123/qe_elfrida-rd-tampubolon.git](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/3.PNG)
