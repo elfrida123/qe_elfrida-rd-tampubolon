@@ -33,3 +33,19 @@ Pada materi ini mempelajari tentang:
 4. Untuk memeriksa apakah GIT sudah berhasil diinstalasi buka CMD dan ketikkan perintah **git --version**
    Maka hasil yang diharapkan adalah seperti berikut:
    ![Gambar git --version](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/git%20--version.PNG)
+Setelah kita berhasil melakukan install git maka kita akan melakukan setting up pada komputer kita.
+### Set Up Git
+1. Pertama sekali kita login menggunakan akun Github kita masing-masing
+2. Kemudian kita membua command prompt (cmd)
+3. Untuk melakukan config maka ketikkan perintah git config --global user.name "elfrida123"
+4. Berikutnya ketikkan perintah git config --global user.email "elfridatampubolon21@gmail.com"
+5. Selanjutnya kita akan masuk ke dalam proses INIT
+   Sebelum melakukan proses INIT terlebih dahulu harus membuat repositori pada akun github anda dan juga anda membuat repository pada lokal
+   1. Buka cmd pada repository lokal anda
+   2. Kemudian ketikkan perintah **git init** ke file yang ingin anda push 
+   3. Setelah proses init berhasil masukkan perintah git remote add (URL repositori yang telah anda buat)
+   4. Masukkan perintah **git commit -m "pesan anda"**
+   5. Selanjutnya ketikkan perintah **git push -u origin (nama branch)**
+
+## TUGAS
+![Hasil Tugas Section 02](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/2_Versioning%20Control%20with%20Git/screenshots/Hasil%20Tugas%20Section%202.PNG)
