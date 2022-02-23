@@ -62,5 +62,5 @@ Sebuah software yang digunakan untuk mengelola suatu proyek atau development sof
 4. Apply for Permanent Jobs
 
 # TUGAS
-
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/3_Software%20Testing%20as%20a%20Career%20Path/screenshots/Tugas.PNG)
 
