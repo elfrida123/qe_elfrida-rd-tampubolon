@@ -31,12 +31,13 @@ Analytical skill sangat dibutuhkan oleh seorang software tester dikarenakan skil
 --> Seorang software tester harus memiliki passion. 
 
 ### Technical Skill
-1. Mengetahui basic knowledge dari Unix/Linux commands untuk melakukan automation testing dan juga ketika ingin melakukan instalasi suatu software
-2. Test Management Tools
+#### 1. Mengetahui basic knowledge dari Unix/Linux commands 
+Untuk melakukan automation testing dan juga ketika ingin melakukan instalasi suatu software
+#### 2. Test Management Tools
 Sebuah tools yang digunakan oleh seorang software tester untuk menyimpan informasi terkait bagaimana suatu software diuji.
-3. Tracking Management Tools
+#### 3. Tracking Management Tools
 Sebuah software yang digunakan untuk mengelola suatu proyek atau development software agar berjalan secara efisien dan efektif
-4. Automation Testing Tool
+#### 4. Automation Testing Tool
 
 ## 3. Apa yang dilakukan oleh seorang Software Tester
 1. Understanding Requirement Documents
