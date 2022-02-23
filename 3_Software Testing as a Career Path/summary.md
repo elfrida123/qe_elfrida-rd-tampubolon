@@ -69,5 +69,18 @@ Sebuah software yang digunakan untuk mengelola suatu proyek atau development sof
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/3_Software%20Testing%20as%20a%20Career%20Path/screenshots/Tugas.PNG)
 
 Berdasarkan gambar di atas, diketahui bahwa kita memiliki 2 wadah (ember) yang dimana ember 1 memiliki kapasitas 3L dan wadah kedua memiliki kapasitas 5L. Tugas kita adalah ada air 4L, maka bagaimana cara kita untuk mengisikan air 4L tersebut menggunakan 2 ember tersebut.
+Maka langkah-langkah nya sebagai berikut:
+Misalkan :
+Ember kapasitas 3L = A
+Ember kapasitas 5L = B
+1. Pertama isi penuh ember A yang artinyanya airnya 3L
+2. Kemudian tuangkan ke ember B yang berkapasitas 5L, maka sekarang air di dalam ember B adalah 3L
+3. Kemudian isi penuh ember A 
+4. Tuangkan kembali ke ember B yang artinya sekarang ember B penuh dengan kapasitas 5L sedangkan ember B tersisa 1L
+5. Buang semua air pada ember B yang artinya sekarang ember B dalam keadaan kosong
+6. Tuangkan air yang dalam ember A tadi yang berisikan 1L air ke ember B, maka sekarang ember B berisikan 1L air
+7. Isi penuh air pada ember A
+8. Kemudian tuangkan pada ember B, maka sekarang ember B memiliki air sebanyak 1L + 3L = 4L
+
 
 
