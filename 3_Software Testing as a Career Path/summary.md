@@ -67,6 +67,7 @@ Sebuah software yang digunakan untuk mengelola suatu proyek atau development sof
 
 ## TUGAS
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/3_Software%20Testing%20as%20a%20Career%20Path/screenshots/Tugas.PNG)
+
 Berdasarkan gambar di atas, diketahui bahwa kita memiliki 2 wadah (ember) yang dimana ember 1 memiliki kapasitas 3L dan wadah kedua memiliki kapasitas 5L. Tugas kita adalah ada air 4L, maka bagaimana cara kita untuk mengisikan air 4L tersebut menggunakan 2 ember tersebut.
 
 
