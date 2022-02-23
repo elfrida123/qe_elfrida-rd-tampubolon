@@ -16,7 +16,9 @@ Identifikasi apakah dalam suatu proyek terdapat bugs atau tidak.
 ## 2. Skill yang dibutuhkan oleh seorang Software Tester
 ### Non-Technical Skill
 1. Analytical Skill
-   Analytical skill sangat dibutuhkan oleh seorang software tester dikarenakan skill ini akan mempermudah tatanan software yang kompleks menjadi unit yang lebih kecil sehingga dapat melakukan testing lebih mudah.
+
+Analytical skill sangat dibutuhkan oleh seorang software tester dikarenakan skill ini akan mempermudah tatanan software yang kompleks menjadi unit yang lebih kecil sehingga dapat melakukan testing lebih mudah.
+
 2. Communication Skill
    Skill komunikasi ini sangat dibutuhkan dikarenakan software tester akan berkomunikasi langsung dengan client, developer, bahkan dengan user yang tidak mengetahui tentang produk sebelumnya. Kita sebagai software tester yang baik harus menggunakan kata-kata yang baik dan sopan sehingga kita tidak menyinggung perasaan developer ketika menyampaikan kritik atau saran.
 3. Time Management anda Organization Skill
