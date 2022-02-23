@@ -10,19 +10,23 @@ Pada materi ini akan mempelajari tentang :
 
 ## 1. Apa itu Software Testing?
 Software testing adalah proses verifikasi sistem atau program komputer untuk memutuskan apakah memenuhi persyaratan yang ditentukan dan menghasilkan output yang diinginkan.
-**Result**
+## Result
 Identifikasi apakah dalam suatu proyek terdapat bugs atau tidak. 
 
 ## 2. Skill yang dibutuhkan oleh seorang Software Tester
 ### Non-Technical Skill
 1. Analytical Skill
 Analytical skill sangat dibutuhkan oleh seorang software tester dikarenakan skill ini akan mempermudah tatanan software yang kompleks menjadi unit yang lebih         kecil sehingga dapat melakukan testing lebih mudah.
+
 2. Communication Skill
 --> Skill komunikasi ini sangat dibutuhkan dikarenakan software tester akan berkomunikasi langsung dengan client, developer, bahkan dengan user yang tidak mengetahui tentang produk sebelumnya. Kita sebagai software tester yang baik harus menggunakan kata-kata yang baik dan sopan sehingga kita tidak menyinggung perasaan developer ketika menyampaikan kritik atau saran.
+
 3. Time Management anda Organization Skill
 --> Skill ini akan memahami apa task atau tugas yang harus dikerjakan saat ini dan setelahnya. Seorang software tester harus mampu management waktu agar task dapat dikerjakan dnegan tepat waktu.
+
 4. Great Attitude
 -->Sikap untuk 'test to break', detail orientation, kemauan untuk belajar dan berproses untuk lebih baik. Dalam industri perangkat lunak, teknologi berkembang dengan sangat luar biasa sehingga seorang software tester yang baik harus mampu berkembang berdasarkan perkembangan teknologi.
+
 5. Passion
 --> Seorang software tester harus memiliki passion. 
 
