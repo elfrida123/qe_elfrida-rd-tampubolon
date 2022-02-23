@@ -70,8 +70,10 @@ Sebuah software yang digunakan untuk mengelola suatu proyek atau development sof
 
 Berdasarkan gambar di atas, diketahui bahwa kita memiliki 2 wadah (ember) yang dimana ember 1 memiliki kapasitas 3L dan wadah kedua memiliki kapasitas 5L. Tugas kita adalah ada air 4L, maka bagaimana cara kita untuk mengisikan air 4L tersebut menggunakan 2 ember tersebut.
 #### Langkah-langkah nya sebagai berikut:
-#### Misalkan :
+Misalkan :
+
 Ember kapasitas 3L = A
+
 Ember kapasitas 5L = B
 1. Pertama isi penuh ember A yang artinyanya airnya 3L
 2. Kemudian tuangkan ke ember B yang berkapasitas 5L, maka sekarang air di dalam ember B adalah 3L
