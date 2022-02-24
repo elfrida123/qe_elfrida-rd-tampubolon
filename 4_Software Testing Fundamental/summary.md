@@ -76,3 +76,6 @@ System testing merupakan testing yang dilakukan pada satu keseluruhan sistem yan
 Acceptance testing digunakan untuk menentukan apakah sistem yang dikembangkan telah memenuhi kebutuhan pengguna. Dalam beberapa proyek acceptance testing biasanya dilakukan pada tahap terakhir proses pengujian yaitu sebelum diserahkan kepada pengguna. Acceptance testing biasanya dilakukan setelah beberapa rangkaian testing seperti unit testing, integration testing, system testing selesai. Acceptance testing bertujuan untuk apakah aplikasi yang dibuat sudah sesuai dengan proses bisnis dan kebutuhan atau tidak.
 
 # TUGAS
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/4_Software%20Testing%20Fundamental/screenshots/Tugas%201.PNG)
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/4_Software%20Testing%20Fundamental/screenshots/Tugas%202.PNG)
