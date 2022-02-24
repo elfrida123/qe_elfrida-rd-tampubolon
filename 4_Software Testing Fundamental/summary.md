@@ -20,7 +20,13 @@ Software bugs bisa sangat berbahaya dan mahal. Software bugs dapat menyebabkan k
 
 ## Testing Platform
 ## Jenis-jenis Testing Platform
-## 1. API (Application Programming Interface)
+### 1. API (Application Programming Interface)
 API adalah definisi dan protokol untuk membangun dan mengintegrasikan sebuah software. API adalah pengembangan dari inovasi software yang memungkinkan berbagai aplikasi bertukan data dan fungsionalitas dengan mudah dan aman.
 
-## 2. Web
+### 2. Web
+Web atau website adalah sebuah kumpulan hal yang berisi informasi tertentu dan dapat diakses melalui internet. Website dapat dibukan dengan menuliskan URL atau halaman tempat website di browser.
+
+### Mobile
+Dalam software testing platform mobile dibedakan menjadi 2 jenis yaitu android dan iOS.
+
+### Dekstop
