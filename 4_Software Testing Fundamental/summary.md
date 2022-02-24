@@ -18,7 +18,7 @@ Dengan adanya software testing dapat:
 - Kepuasan konsumen atau pelanggan (customer satisfaction)
 Software bugs bisa sangat berbahaya dan mahal. Software bugs dapat menyebabkan krisis moneter dan manusia
 
-## Testing Platform
+## 3. Testing Platform
 ## Jenis-jenis Testing Platform
 ### 1. API (Application Programming Interface)
 API adalah definisi dan protokol untuk membangun dan mengintegrasikan sebuah software. API adalah pengembangan dari inovasi software yang memungkinkan berbagai aplikasi bertukan data dan fungsionalitas dengan mudah dan aman.
@@ -27,7 +27,7 @@ Web atau website adalah sebuah kumpulan hal yang berisi informasi tertentu dan d
 ### 3. Mobile
 Dalam software testing platform mobile dibedakan menjadi 2 jenis yaitu android dan iOS.
 ### 4. Dekstop
-## 3. Jenis-jenis Software Testing
+## 4. Jenis-jenis Software Testing
 ### 1. Fungsional Testing
 Fungsional testing adalah jenis pengujian yang memverifikasi bahwa setiap fungsi atau aplikasi telah beroperasi sesuai dengan requirement
 ### 2. Manual Testing
