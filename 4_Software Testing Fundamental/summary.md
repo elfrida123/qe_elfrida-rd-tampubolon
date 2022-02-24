@@ -77,5 +77,20 @@ Acceptance testing digunakan untuk menentukan apakah sistem yang dikembangkan te
 
 # TUGAS
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/4_Software%20Testing%20Fundamental/screenshots/Tugas%201.PNG)
+Berdasarkan gambar di atas dapat kita ketahui bahwa gambar tersebut adalah pit test coverage report. Mutation testing merupakan testing yang dilakukan terhadap suatu program dengan memodifikasi satu bagian kecil dari sebuah fungsi/method kode program. Tujuan dari mutation testing adalah menyebabkan program mutant program mutant fail, atau menghasilkan output yang tidak sesuai dengan expected output dan juga mendemonstrasikan bagaimana efektivitas dari test suite kita. 
+Dari gambar tersebut dapat kita lihat bahwa :
+- Line coverage pada test dengan name com.hascode.tutorial.entity menunjukkan 67% yang artinya 67% dari baris code kita berhasil diekseskusi, sedangan untuk mutation coverage adalah 67% artinya test case ini belom bagus atau belom layak. Dari 9 mutant yang diberikan terdapat 3 dead mutant. Suatu test case dikatakan layak (adequate) apabila memperoleh mutation score 100%. Mutation score dapat kita hitung dengan menggunakan rumus :
+    **100 * D / (N - E)**
+    Keterangan:
+    D = Mutan mati
+    N = Jumlah mutan
+    E = Jumlah mutan yang setara
+- Untuk test case dengan name com.hascode.tutorial.service ditunjukkan bahwa 100% dari baris code kita berhasil dieksekusi. Dari 6 mutant yang diberikan tidak ada dead mutant sedangkan untuk mutation coverage adalah 75% artinya test case ini belom layak atau unadequate
 
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/4_Software%20Testing%20Fundamental/screenshots/Tugas%202.PNG)
+Dalam potongan code yang diberikan disediakan class CalculatorServiceImpl yang menyediakan dua function yaitu:
+- Function pertama bernama add 
+Function ini memiliki parameter dengan tipe int, dan terdapat operasi matematika yang ditampung pada pada variabel c.
+- Function kedua bernama substract 
+Function ini memiliki parameter dengan tipe int dimana kedua function tersebut menampung parameter int a dan b dan dalam potongan code yang diberikan.
+Untuk function add diberikan tanda hijau dalam mutation testing PIT warna hijau menunjukkan original program dan warna merah menunjukkan mutant program atau program yang sudah diubah dari original program yang dimana goal yang diminta dalam mutant program adalah menghasilkan output yang berbeda dari original program.
