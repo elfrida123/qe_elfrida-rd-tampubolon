@@ -35,7 +35,7 @@ Tidak semua step yang dilakukan dalam kondisi positif, think outside of the box 
 Perubahan itu pasti, catat perubahannya dan perbarui versi pembuatannya.
 
 ### Test Scenario Example
-![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/5_Testing%20Documentation%20(Test/screenshots/TS_Example.PNG)
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/21127c6a321194d099bd204c72d84c86fc16960c/5_Testing%20Documentation%20(Test/screenshots/TS_Example.PNG)
 
 ## 2. Test Case
 - Test Case atau juga bisa disebut dengan uji kasus adalah suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh software tester untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat lunak.
