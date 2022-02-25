@@ -35,22 +35,21 @@ Tidak semua step yang dilakukan dalam kondisi positif, think outside of the box 
 Perubahan itu pasti, catat perubahannya dan perbarui versi pembuatannya.
 
 ### Test Scenario Example
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/5_Testing%20Documentation%20(Test/screenshots/TS_Example.PNG)
 
 ## 2. Test Case
 - Test Case atau juga bisa disebut dengan uji kasus adalah suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh software tester untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat lunak.
-
-#### - Tujuan 
+- Tujuan 
   - Untuk memastikan bahwa suatu sistem dapat dijalankan dengan baik sesuai dengan kebutuhan awal
   - Mampu memberikan respon ketika terdapat suatu masukan yang tidak valid.
-
-#### - Komponen
-	   - Test Case ID
-	   - Test Case Description
-	   - Pre-conditions
-	   - Test Step
-	   - Expected Result
-	   - Actual Result
-	   - Status
+- Komponen
+	- Test Case ID
+	- Test Case Description
+	- Pre-conditions
+	- Test Step
+	- Expected Result
+	- Actual Result
+	- Status
 - Test Case bertindak sebagai titik awal dalam pelaksanaan pengujian sebuah sistem. Dari test case ini biasanya diketahui apakah fitur sistem berjalan normal atau tidak.
 
 ### Beberapa hal yang perlu diperhatikan dalam membuat test case
@@ -71,4 +70,9 @@ Dalam membuat test case, test case harus menghasilkan hasil yang sama setiap kal
 #### 8. Peer Review
 Test case yang dibuat harus bisa ditinjau oleh orang lain. Hal ini memungkinkan orang lain menemukan sebuah cacat yang terlewatkan.
 
-### Test Case Scenario
+### Test Case Example
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/5_Testing%20Documentation%20(Test/screenshots/TC_Example.PNG)
+# TUGAS
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/5_Testing%20Documentation%20(Test/screenshots/Tugas%201.PNG)
+
+Link: https://docs.google.com/spreadsheets/d/12km3CAn9Mg60nS6urkgs8gkpwoTLZ9ut/edit?usp=sharing&ouid=101548353539450152485&rtpof=true&sd=true
