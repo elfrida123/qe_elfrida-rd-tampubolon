@@ -35,6 +35,7 @@ Tidak semua step yang dilakukan dalam kondisi positif, think outside of the box 
 Perubahan itu pasti, catat perubahannya dan perbarui versi pembuatannya.
 
 ### Test Scenario Example
+Contohnya :
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/5_Testing%20Documentation%20(Test/screenshots/TS_Example.PNG)
 
 ## 2. Test Case
