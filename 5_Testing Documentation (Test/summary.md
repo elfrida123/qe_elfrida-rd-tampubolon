@@ -38,19 +38,17 @@ Perubahan itu pasti, catat perubahannya dan perbarui versi pembuatannya.
 
 ## 2. Test Case
 - Test Case atau juga bisa disebut dengan uji kasus adalah suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh software tester untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat lunak.
-
-#### - Tujuan 
+- Tujuan 
   - Untuk memastikan bahwa suatu sistem dapat dijalankan dengan baik sesuai dengan kebutuhan awal
   - Mampu memberikan respon ketika terdapat suatu masukan yang tidak valid.
-
-#### - Komponen
-	   - Test Case ID
-	   - Test Case Description
-	   - Pre-conditions
-	   - Test Step
-	   - Expected Result
-	   - Actual Result
-	   - Status
+- Komponen
+	- Test Case ID
+	- Test Case Description
+	- Pre-conditions
+	- Test Step
+	- Expected Result
+	- Actual Result
+	- Status
 - Test Case bertindak sebagai titik awal dalam pelaksanaan pengujian sebuah sistem. Dari test case ini biasanya diketahui apakah fitur sistem berjalan normal atau tidak.
 
 ### Beberapa hal yang perlu diperhatikan dalam membuat test case
