@@ -47,4 +47,4 @@ Ketika kita menemukan sebuah bug saat testing maka yang akan kita kerjakan adala
 2. Pindahkan story atau issue yang berkaitan dengan bug ke panel atau kolom IN PROGRESS.
 
 # TUGAS
-Link :
+Link : https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/6_Tracking%20Management%20Tools/praktikum/Tugas%20Theory%20%26%20Practice.docx
