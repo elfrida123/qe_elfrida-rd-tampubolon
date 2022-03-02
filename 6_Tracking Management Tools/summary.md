@@ -5,15 +5,15 @@ Tracking management tools adalah sebuah software yang digunakan dalam mengelola 
 Jira dikembangkan oleh Atlassian sebagai alat bantu yang bertujuan untuk pelacakan bugs (bug tracking), pelacakan masalah (issue tracking), dan manajemen proyek (project management).
 ### Fitur Unggulan
 #### - Task Asssignment
-	   Pada Jira sendiri, fitur task assignment dilengkapi dengan antarmuka mengenai workflow yang dijalankan. Hal ini membuat anggota tim, bahkan tim lain dapat mengetahui sejauh mana progres dari suatu project tersebut. 
+Pada Jira sendiri, fitur task assignment dilengkapi dengan antarmuka mengenai workflow yang dijalankan. Hal ini membuat anggota tim, bahkan tim lain dapat mengetahui sejauh mana progres dari suatu project tersebut. 
 #### - Scrum dan Kanban boards
-	   Salah satu keunggulan Jira yang membedakan dengan aplikasi project management lainnya adalah adanya fitur Scrum dan Kanban boards. Dengan fitur ini, suatu tim dapat lebih mudah melakukan brainstorming. Fitur ini cukup intuitif sehingga tiap anggota tim dapat saling berkolaborasi untuk menentukan prioritas kerjanya. Tak hanya itu, anggota tim juga dapat mengetahui berbagai masalah dari anggota lainnya yang diperoleh selama berproses. 
+Salah satu keunggulan Jira yang membedakan dengan aplikasi project management lainnya adalah adanya fitur Scrum dan Kanban boards. Dengan fitur ini, suatu tim dapat lebih mudah melakukan brainstorming. Fitur ini cukup intuitif sehingga tiap anggota tim dapat saling berkolaborasi untuk menentukan prioritas kerjanya. Tak hanya itu, anggota tim juga dapat mengetahui berbagai masalah dari anggota lainnya yang diperoleh selama berproses. 
 #### - Roadmaps
-	   Fitur roadmaps yang dapat membuat anggota tim mengetahui gambaran ke depan. Dengan adanya roadmaps, anggota tim akan lebih fokus terhadap apa yang dikerjakannya. Bahkan, team leader dapat memiliki kontrol penuh dengan berbagai pekerjaan yang dilakukan. Melalui roadmaps, team leader dapat melihat gambaran proyek secara utuh sehingga mempermudah pengambilan keputusan. 
+Fitur roadmaps yang dapat membuat anggota tim mengetahui gambaran ke depan. Dengan adanya roadmaps, anggota tim akan lebih fokus terhadap apa yang dikerjakannya. Bahkan, team leader dapat memiliki kontrol penuh dengan berbagai pekerjaan yang dilakukan. Melalui roadmaps, team leader dapat melihat gambaran proyek secara utuh sehingga mempermudah pengambilan keputusan. 
 #### - Konektivitas dengan aplikasi lain
-	   Dukungan untuk berbagai aplikasi ini dapat mempermudah proses pengerjaan suatu project. Pasalnya, tak dapat dipungkiri, dalam suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal. Dengan fitur ini, maka tugas yang diberikan di Jira akan lebih intuitif dan mudah.
+Dukungan untuk berbagai aplikasi ini dapat mempermudah proses pengerjaan suatu project. Pasalnya, tak dapat dipungkiri, dalam suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal. Dengan fitur ini, maka tugas yang diberikan di Jira akan lebih intuitif dan mudah.
 #### - Pelaporan
-	   Salah satu fitur penting dalam aplikasi project management adalah adanya laporan atau reporting. Tak hanya penting setelah project selesai dikerjakan, tetapi juga saat prosesnya. Jira memberikan fitur pelaporan dengan visualisasi menarik, sehingga mempermudah pemangku kebijakan mengetahui hasilnya. Selain itu, hal ini juga akan mempermudah team leader membuat kebijakan ke depan terhadap pengerjaan suatu project.
+Salah satu fitur penting dalam aplikasi project management adalah adanya laporan atau reporting. Tak hanya penting setelah project selesai dikerjakan, tetapi juga saat prosesnya. Jira memberikan fitur pelaporan dengan visualisasi menarik, sehingga mempermudah pemangku kebijakan mengetahui hasilnya. Selain itu, hal ini juga akan mempermudah team leader membuat kebijakan ke depan terhadap pengerjaan suatu project.
 
 ### Panel
 - TO DO
@@ -45,3 +45,6 @@ Epic merupakan jenis issue untuk mengelompokkan task.
 Ketika kita menemukan sebuah bug saat testing maka yang akan kita kerjakan adalah sebagai berikut:
 1. Kita harus membuat issue bertipe bug kemudian jelaskan di issue tersebut kondisi sekarang, expected result, dan langkah-langkah melakukan testing tersebut.
 2. Pindahkan story atau issue yang berkaitan dengan bug ke panel atau kolom IN PROGRESS.
+
+# TUGAS
+Link : https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/6_Tracking%20Management%20Tools/praktikum/Tugas%20Theory%20%26%20Practice.docx
