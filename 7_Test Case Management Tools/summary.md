@@ -31,3 +31,4 @@ Test plan merupakan blueprint untuk melakukan proses pengujian, dokumen yang ber
 8. Test Report
 
 # TUGAS
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/7_Test%20Case%20Management%20Tools/screenshots/Tugas.PNG)
