@@ -5,10 +5,10 @@ Test Case Management Tools adalah alat untuk memelihara atau menjaga banyak doku
 ###- Plan and Estimate
 Dalam test case management tools, plan and estimate yang kita buat diinformasikan dalam sebuah test plan. Dimana dalam test plan itu sendiri berisi tentang fitur apa saja yang akan diuji dalam planning saat itu, fitur apa saja yang tidak diuji saat planning tersebut, hal-hal apa saja yang berhubungan dengan test tersebut, berapa banyak sumber daya yang dibutuhkan dan informasi dari jadwal itu sendiri. Setelah kita mengetahui detail project maka kita dapat membuat sebuah estimasi waktu untuk project itu sendiri.
 
-###- Monitoring and Controlling
+### - Monitoring and Controlling
 Dengan menggunakan test case management tools kita dapat me-monitoring proses collecting, recording, serta reporting. Selain itu, kita juga dapat mengontrol data-data yang dibuat dalam suatu tempat.
 
-###- Reporting and Integrate with Another Tools
+### - Reporting and Integrate with Another Tools
 Dengan menggunakan test case management tools kita tidak perlu lagi repot-repot membuat dokumen report secara manual. Test case management tools dapat diintegrasikan dengan tool-tool lainnya seperti Jira, Slack, dll.
 Contoh test case management tools:
 1. TestRail
