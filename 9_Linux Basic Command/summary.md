@@ -68,7 +68,7 @@ chmod adalah perintah Linux lain, yang digunakan untuk mengubah izin baca, tulis
 #### - chown
 Perintah chown memungkinkan Anda untuk mengubah atau mentransfer kepemilikan file ke nama pengguna yang ditentukan. Misalnya, chown linuxuser2 file.ext akan menjadikan linuxuser2 sebagai pemilik file.ext.
 
-## Shell Script
+## 2. Shell Script
 Shell script adalah sebuah bahasa pemrograman yang dieksekusi berdasakan shell commands dan juga shell merupakan program yang berfungsi sebagai jembatan antara user dan kernel. 
 Keuntungan menggunakan shell pada dunia testing yaitu ketika harus mengeksekusi beberapa commands beruturut-turut, hal itu membuat kita harus menunggu command pertama baru bisa melakukan command berikutnya. 
 
