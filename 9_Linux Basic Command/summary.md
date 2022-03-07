@@ -1,4 +1,4 @@
-#9 Linux Basic Command
+# 9 Linux Basic Command
 ## 1. Linux Command
 Linux Command adalah utilitas dari sistem operasi Linux. Semua tugas dasar dan lanjutan dapat dilakukan dengan menjalankan perintah. Perintah dijalankan di terminal Linux . Terminal adalah antarmuka baris perintah untuk berinteraksi dengan sistem, yang mirip dengan prompt perintah di OS Windows. Perintah di Linux peka huruf besar/kecil. Command line di Linux sepenuhnya text-based dan lebih cepat dibandingkan menggunakan GUI.
 ### Kelebihan Command Line
@@ -73,3 +73,5 @@ Shell script adalah sebuah bahasa pemrograman yang dieksekusi berdasakan shell c
 Keuntungan menggunakan shell pada dunia testing yaitu ketika harus mengeksekusi beberapa commands beruturut-turut, hal itu membuat kita harus menunggu command pertama baru bisa melakukan command berikutnya. 
 
 # TUGAS
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/9_Linux%20Basic%20Command/screenshots/Tugas.PNG)
+Link : https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/9_Linux%20Basic%20Command/praktikum/Tugas%20Praktikum-Elfrida%20Tampubolon.docx
