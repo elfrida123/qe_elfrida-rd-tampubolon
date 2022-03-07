@@ -74,4 +74,5 @@ Keuntungan menggunakan shell pada dunia testing yaitu ketika harus mengeksekusi 
 
 # TUGAS
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/9_Linux%20Basic%20Command/screenshots/Tugas.PNG)
+
 Link : https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/9_Linux%20Basic%20Command/praktikum/Tugas%20Praktikum-Elfrida%20Tampubolon.docx
