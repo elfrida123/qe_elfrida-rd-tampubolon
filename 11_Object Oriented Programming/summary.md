@@ -20,5 +20,5 @@ Modifier private akan membuat member hanya bisa diakses oleh dari dalam class it
 Modifier protected akan membuat member dan class hanya bisa diakses dari class itu sendiri, sub class atau class anak, package (class yang berada satu package dengannya). Modifier protected juga hanya boleh digunakan pada member saja.
 
 # TUGAS
-
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/11_Object%20Oriented%20Programming/screenshots/Tugas.PNG)
 Link Tugas : https://docs.google.com/document/d/1717yKROv5NnDyX_Nna-4NuT6ROyTkMT49GuTbdrUqDg/edit?usp=sharingss
