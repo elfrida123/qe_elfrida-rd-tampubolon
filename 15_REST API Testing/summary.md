@@ -114,4 +114,5 @@ Mengeksekusi test case yang telah kita buat dan membuat report hasil dari testin
 
 # TUGAS
 Link TestRail : https://elfridatampubolon12.testrail.io/index.php?/projects/overview/2
+
 Link Spreedsheet : https://docs.google.com/spreadsheets/d/1FcH0-y_8LE3-esTA99vicqtBaiUdTe_I4wk-Mi7ZNqI/edit?usp=sharing
