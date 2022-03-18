@@ -78,6 +78,7 @@ Gambar diatas merupakan test report dari Serenity BDD (Behavior Driven Developme
 
 
 2. Deskripsikan hasil pengujian secara otomatis berikut ini!
+
 ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/16_From%20Manual%20to%20Automation%20Tetsing/screenshots/TugasNo2.PNG)
 
 Gambar diatas merupakan test report dari Serenity BDD (Behavior Driven Development) testing. Dari gambar diatas dapat kita simpulkan bahwa capabilities petstore memiliki jumlah scenario yang diuji 1 dan berstatus "passed" atau berhasil yang ditandai dengan warna hijau. Untuk capabilities  search memiliki jumlah scenario 4 dengan 3 diantaranya berstatus "passed" dan 1 scenarion berstatus "pending" yang ditandai dengan warna biru muda. Untuk capabilities shopping cart memiliki 2 scenario dimana 1 diantaranya berstatus "passed" dan 1 scenario berstatus "failed" atau gagal.
