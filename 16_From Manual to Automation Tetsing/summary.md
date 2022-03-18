@@ -72,9 +72,12 @@ Fase maintenance adalah fase dimana automation testing yang dilakukan untuk meng
 
 ## TUGAS
 1. Deskripsikan hasil pengujian secara otomatis berikut ini!
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/16_From%20Manual%20to%20Automation%20Tetsing/screenshots/TugasNo1.PNG)
 
 Gambar diatas merupakan test report dari Serenity BDD (Behavior Driven Development) testing. BDD testing adalah teknik pengembangan perangkat lunak yang agile dan merupakan perpanjangan dari TDD (Test Driven Development). Dalam BDD, test case ditulis dalam bahasa alami yang bahkan dapat dibaca oleh non-programmer. Dari gambar tersebut dapat kita simpulkan bahwa kita sedang melakukan REST API testing yang melibatkan tindakan CRUD (Create-Read-Update-Delete) dengan metode POST, GET, PUT, dan DELETE untuk menguji REST API pada fitur Sample_REST_API_Testing pada layanan posting. Pada method "POST post example" kita akan menambahkan atau membuat item baru pada service post. Setelah kita berhasil menambahkan item baru maka kita dapat memeriksa data yang kita tambahkan sudah berhasil atau tidak dengan menggunakan method "GET posts example". Apabila kita ingin mengubah data atau melakukan update content data kita, kita dapat menggunakan method "UPDATE posts example". Apabila kita ingin menghapus data yang tidak kita inginkan lagi kita dapat menggunakan method "DELETE posts example". Hasil dari pengujian kita berhasil dilakukan dengan run time POST selama 786ms, sedangkan GET selama 212ms, method UPDATE 764ms dan method DELETE memiliki run time terlama dengan waktu 880ms.
 
+
 2. Deskripsikan hasil pengujian secara otomatis berikut ini!
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/16_From%20Manual%20to%20Automation%20Tetsing/screenshots/TugasNo2.PNG)
 
 Gambar diatas merupakan test report dari Serenity BDD (Behavior Driven Development) testing. Dari gambar diatas dapat kita simpulkan bahwa capabilities petstore memiliki jumlah scenario yang diuji 1 dan berstatus "passed" atau berhasil yang ditandai dengan warna hijau. Untuk capabilities  search memiliki jumlah scenario 4 dengan 3 diantaranya berstatus "passed" dan 1 scenarion berstatus "pending" yang ditandai dengan warna biru muda. Untuk capabilities shopping cart memiliki 2 scenario dimana 1 diantaranya berstatus "passed" dan 1 scenario berstatus "failed" atau gagal.
