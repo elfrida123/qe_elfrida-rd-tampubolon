@@ -1,0 +1,11 @@
+starter\posting\Posting.class
+starter\comment\Comment.class
+starter\stepdefinitions\posting\PostingSteps.class
+starter\stepdefinitions\comment\CommentSteps.class
+starter\stepdefinitions\message\MessageSteps.class
+starter\notification\Notification.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\applyjobs\ApplyJobs.class
+starter\message\Message.class
+starter\stepdefinitions\notification\NotificationsSteps.class
+starter\stepdefinitions\applyjobs\ApplyJobsSteps.class
