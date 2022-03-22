@@ -20,3 +20,6 @@ Terdapat 3 keyword sebagai elemen utama dalam skenario BDD:
 
 ## What is Cucumber?
 Cucumber adalah sebuah tool yang mendukung BDD. Cucumber membaca semacam ketentuan yang dapat dieksekusi, dimana ditulis menggunakan teks biasa dan ketentuan tersebut memvalidasi bahwa sistem atau aplikasi melakukan apa yang dituliskan dalam ketentuan tersebut. Ketentuan tersebut terdiri dari beberapa skenario.
+
+## TUGAS
+https://github.com/elfrida123/qe_elfrida-rd-tampubolon/tree/master/17_Behaviour%20Driven%20Development/praktikum
