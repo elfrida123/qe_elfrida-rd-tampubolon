@@ -1,0 +1,5 @@
+starter\account\Get.class
+starter\CucumberTestSuite.class
+starter\stepsdefinitions\GetAccountSteps.class
+starter\bookstore\Get.class
+starter\stepsdefinitions\BookStoreSteps.class

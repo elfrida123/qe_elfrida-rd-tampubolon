@@ -1,0 +1,4 @@
+# Created at 2022-03-22T17:19:07.946
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Perkuliahan\Kampus Merdeka\Alterra\Materi\qe_elfrida-rd-tampubolon\18_RESTful API Testing with Rest Assured\praktikum\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

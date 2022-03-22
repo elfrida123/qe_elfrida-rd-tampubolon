@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Account","GET - As admin I have be able to get detail account","SUCCESS","2022-03-22T17:19:10.153+07:00[Asia/Bangkok]","0.0","4.91"
+"User","GET - As admin I have be able to get detail store book","SUCCESS","2022-03-22T17:19:15.085+07:00[Asia/Bangkok]","0.0","1.28"
