@@ -1,0 +1,36 @@
+body{
+    width:800px;
+    margin: 30px auto;
+    background-image: url(assets/bg.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.header{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(76,129,120,1) 33%, rgba(167,140,82,1) 100%);
+    padding: 1ch;
+}
+
+.header img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    position: absolute;
+    object-position: right;
+    padding-left: 44em;
+    top: 2.5ch;
+}
+
+.content{
+    padding: 0.1em;
+    background-color: #c0d5d1;
+}
+
+.signup{
+    padding: 0.1em;
+    background-color: #c0d5d1;
+}
+
+button:hover {
+    opacity:1;
+}
