@@ -44,4 +44,12 @@ Dokumentasi HTML:
 - tag form : form, fieldsheet, label, input id="" type="" placeholder=""
   
  ## TUGAS
+ 1. Halaman Index
+ ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/19_Web%20Programming/screenshots/index.PNG)
+ 
+ 2. Halaman Form Sign Up
+ ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/19_Web%20Programming/screenshots/form.PNG)
+ 
+ 3. Halaman Welcome
+ ![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/19_Web%20Programming/screenshots/welcome.PNG)
 
