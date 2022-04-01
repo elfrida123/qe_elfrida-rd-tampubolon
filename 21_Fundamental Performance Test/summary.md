@@ -75,5 +75,7 @@ Volume test dan load test berbeda dimana load test menguji ketahanan sistem keti
 
 2. Bagaimana contoh sistem yang kurang stabil?
 
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/21_Fundamental%20Performance%20Test/screenshots/Tugas2.PNG)
+
 Gambar diatas merupakan sistem yang kurang stabil karena melewati waktu rata rata yang ditunjukkan dengan telah mencapai grafik maximum. Hal tersebut mungkin terjadi karena adanya suatu events yang menyebabkan banyak user sedang menggunakan aplikasi dan membuat respon menjadi lebih lama. Dari gambar dapat dilihat bahwa pemakaian aplikasi yang paling banyak pada pukul 12.54. semakin banyak user yang menggunakan semakin lama prosesnya.
 
