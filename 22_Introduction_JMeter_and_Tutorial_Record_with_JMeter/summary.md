@@ -22,7 +22,7 @@
 - Elemen yang digunakan untuk konfigurasi atau modifikasi sampier requests yang dikum ke server
 
 
-### Pendengar / Listeners*
+### Pendengar / Listeners
 Perekam data yang dihasilkan dan tes
 
 ### Pengatur waktu / Timers
