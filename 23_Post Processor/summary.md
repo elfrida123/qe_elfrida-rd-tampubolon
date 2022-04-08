@@ -16,3 +16,6 @@ jsonpath digunakan untuk mengambil nilai-nilai yang terdapat pada data JSON yang
   - [start:end] = array slice operator borrowed
 
 ## TUGAS
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/23_Post%20Processor/screenshots/Tugas.PNG)
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/23_Post%20Processor/screenshots/Result.PNG)
