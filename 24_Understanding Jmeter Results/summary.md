@@ -31,3 +31,4 @@ Conversion : the unit of conversuon value, example 1000 will convert the value t
 
 ## TUGAS
 
+https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/24_Understanding%20Jmeter%20Results/praktikum/Tugas.docx
