@@ -1,0 +1,15 @@
+test\alta\pages\PenambahanScreen.class
+test\alta\stepdefinitions\crossSteps.class
+test\alta\hooks\BaseDriverHooks.class
+test\alta\pages\PenguranganScreen.class
+test\alta\pages\PembagianScreen.class
+test\alta\pageobject\BasePageObject.class
+test\alta\stepdefinitions\ACSteps.class
+test\alta\stepdefinitions\pembagianSteps.class
+test\alta\pages\ACScreen.class
+test\alta\stepdefinitions\penguranganSteps.class
+test\alta\stepdefinitions\perkalianSteps.class
+test\alta\CucumberTestSuite.class
+test\alta\pages\PerkalianScreen.class
+test\alta\stepdefinitions\penambahanSteps.class
+test\alta\pages\CrossScreen.class
