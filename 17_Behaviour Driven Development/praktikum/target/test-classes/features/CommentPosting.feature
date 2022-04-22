@@ -1,6 +1,5 @@
 Feature: Comment
-  As a user
-  I want to comment posting of someone
+  As a user, I want to comment posting of someone
 
   Scenario: As a user I have be able to comment posting of someone
     Given I am on the home page

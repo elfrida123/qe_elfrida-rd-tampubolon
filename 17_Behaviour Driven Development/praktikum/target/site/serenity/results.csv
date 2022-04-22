@@ -1,6 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Posting","As a user I have be able to create a post","SUCCESS","2022-03-21T16:37:39.302+07:00[Asia/Bangkok]","0.0","0.81"
-"Search Job","As a user I have be able to search job","SUCCESS","2022-03-21T16:37:40.135+07:00[Asia/Bangkok]","0.0","0.1"
-"Comment","As a user I have be able to comment posting of someone","SUCCESS","2022-03-21T16:37:40.241+07:00[Asia/Bangkok]","0.0","0.1"
-"Message","As a user I have be able to message someone","SUCCESS","2022-03-21T16:37:40.349+07:00[Asia/Bangkok]","0.0","0.06"
-"Notification","As a user I have be able to see notification","SUCCESS","2022-03-21T16:37:40.416+07:00[Asia/Bangkok]","0.0","0.04"
+"Notification","As a user I have be able to see notification","SUCCESS","2022-04-21T13:36:04.6022026+07:00[Asia/Bangkok]","0.0","0.03"

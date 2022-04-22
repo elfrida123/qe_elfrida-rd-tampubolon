@@ -1,6 +1,5 @@
 Feature: Message
-  As a user
-  I want to message someone
+  As a user, I want to message someone
 
   Scenario: As a user I have be able to message someone
     Given I am on the message page
