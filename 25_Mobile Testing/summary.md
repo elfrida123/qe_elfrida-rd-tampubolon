@@ -69,3 +69,26 @@ Pada appium terdapat 2 komponen besar yang kita gunakan yakni:
   2. Parameter ke-2 untuk timeoit (waktu maksimum kita menunggu elemen memenuhi kondisi)
   3. Parameter ke-3 untuk waktu pemungutan suara (periksa setiap dan penggilingan)
 - Objek ExoectedConditions menyimpan daftar kondisi yang didukung oleh appium
+
+# TUGAS
+HASIL
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Result.PNG)
+
+## Scenario 1
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario1.PNG)
+
+## Scenario 2
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario2.PNG)
+
+## Scenario 3
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario3.PNG)
+
+## Scenario 4
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario4.PNG)
+
+## Scenario 5
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario5.PNG)
+
+## Scenario 6
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/25_Mobile%20Testing/screenshots/Scenario6.PNG)
