@@ -75,3 +75,10 @@ Action adalah aplikasi kustom untuk platform GitHub Actions yang melakukan tugas
 # TUGAS
 
 Link github : https://github.com/elfrida123/api-automation-alta
+
+Report:
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/26_Testing%20in%20CICD%20Pipeline/screenshots/1.PNG)
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/26_Testing%20in%20CICD%20Pipeline/screenshots/2.PNG)
+
+![This is an image](https://github.com/elfrida123/qe_elfrida-rd-tampubolon/blob/master/26_Testing%20in%20CICD%20Pipeline/screenshots/3.PNG)
